@@ -1,0 +1,8 @@
+E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\bin\Project2MySite.dll.config
+E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\bin\Project2MySite.dll
+E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\bin\Project2MySite.pdb
+E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\bin\WebShopData.dll
+E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\bin\WebShopData.pdb
+E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\obj\Debug\Project2MySite.csprojResolveAssemblyReference.cache
+E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\obj\Debug\Project2MySite.dll
+E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\obj\Debug\Project2MySite.pdb

@@ -1,0 +1,23 @@
+﻿body {
+    background-color: whitesmoke;
+    color: darkgray;
+}
+
+div {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#topMessage {
+
+    height: 70px;
+    width: 50%;
+    margin: 20px auto;
+}
+p {
+    font-size: 1.1rem;
+}
+
+img {
+    width: 100%;
+}

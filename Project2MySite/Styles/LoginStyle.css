@@ -1,0 +1,9 @@
+﻿body {
+    background-color: whitesmoke;
+    color: darkgray;
+}
+div {
+    width: 400px;
+    height: 180px;
+    margin: 0 auto;
+}

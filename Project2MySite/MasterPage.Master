@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Project2MySite.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Styles/Style.css" rel="stylesheet" />
+    <style type="text/css">
+        .auto-style1 {width: 50%;}
+        .auto-style2 {width: 530px;}
+    </style>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+                <header>
+                    <div>
+                        <asp:HyperLink ID="HyperLinkLogo" runat="server" NavigateUrl="~/MainPage.aspx"><img src="Images/logo.png" style="width: 200px" /></asp:HyperLink>
+                    </div>
+                </header>
+
+                 <nav>
+                     <div>
+                         <table class="auto-style1" >
+                             <tr>
+                                 <td class="auto-style2">
+                                    <asp:Label ID="LabelLoggedOn" runat="server" Font-Bold="True" ForeColor="Black" Font-Size="Large"></asp:Label>
+                                 </td>
+                                 <td>
+                                    <asp:Button ID="ButtonLogout" runat="server" OnClick="ButtonLogout_Click" Text="Log Out" CausesValidation="false" Width="109px" />
+                                 </td>
+                             </tr>
+                         </table>
+&nbsp;<br />
+                         <asp:HyperLink ID="HyperLinkProducts" runat="server" NavigateUrl="~/MainPage.aspx" CssClass="footerHyperlink">Products</asp:HyperLink>
+                         <asp:HyperLink ID="HyperLinkOrderConfirm" runat="server" NavigateUrl="~/Checkout.aspx" CssClass="footerHyperlink">Checkout</asp:HyperLink>
+                         <asp:DropDownList ID="DropDownListCart" runat="server" Width="200px" Font-Size="Smaller" ForeColor="Blue" OnSelectedIndexChanged="DropDownListCart_SelectedIndexChanged" ></asp:DropDownList>
+                     </div>
+                  </nav>
+            
+                <section>
+                     <div>
+                         <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+                     </div>
+                </section>
+                
+                <footer>
+                     <div>
+                         <p><strong>EC UTBILDNINGC UTBILDNING</strong></p>
+                         <asp:HyperLink ID="HyperLinkEcUtbildning" runat="server" CssClass="footerHyperlink" NavigateUrl="http://www.ecutbildning.se/Utbildningar/Yrkesutbildningar/" Target="_blank">YRKESHÖGSKOLEUTBILDNINGAR</asp:HyperLink>
+                         <asp:HyperLink ID="HyperLinkECClass" runat="server" CssClass="footerHyperlink" NavigateUrl="http://www.ecutbildning.se/Utbildningar/Yrkesutbildningar/Webb-utvecklare-inom-NET/" Target="_blank">WEBBUTVECKLARE INOM . NET</asp:HyperLink>
+                         <p><strong>Course | .NET Framework</strong></p>
+                     </div>
+                </footer>
+        </div>
+    </form>
+</body>
+</html>
+
