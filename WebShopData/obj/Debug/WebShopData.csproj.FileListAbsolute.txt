@@ -5,3 +5,9 @@ E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\WebShopData\bin
 E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\WebShopData\bin\Debug\WebShopData.dll.lastcodeanalysissucceeded
 E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\WebShopData\obj\Debug\WebShopData.dll
 E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\WebShopData\obj\Debug\WebShopData.pdb
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\WebShopData\bin\Debug\WebShopData.dll.config
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\WebShopData\bin\Debug\WebShopData.dll
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\WebShopData\bin\Debug\WebShopData.pdb
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\WebShopData\obj\Debug\WebShopData.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\WebShopData\obj\Debug\WebShopData.dll
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\WebShopData\obj\Debug\WebShopData.pdb

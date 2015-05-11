@@ -6,3 +6,11 @@ E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\
 E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\obj\Debug\Project2MySite.csprojResolveAssemblyReference.cache
 E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\obj\Debug\Project2MySite.dll
 E:\1WIN14\.Net Framework (45p)\Projekt\ProjectTwo\Project2MySite\Project2MySite\obj\Debug\Project2MySite.pdb
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\Project2MySite\bin\Project2MySite.dll.config
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\Project2MySite\bin\Project2MySite.dll
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\Project2MySite\bin\Project2MySite.pdb
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\Project2MySite\bin\WebShopData.dll
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\Project2MySite\bin\WebShopData.pdb
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\Project2MySite\obj\Debug\Project2MySite.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\Project2MySite\obj\Debug\Project2MySite.dll
+C:\Users\Rasmus\Desktop\Project2MySite\Projekt-hemsida\Project2MySite\obj\Debug\Project2MySite.pdb

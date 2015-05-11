@@ -13,7 +13,7 @@
 <body>
     <form id="formLogin" runat="server">
     <div>
-        <asp:Label ID="LabelLoginWelcome" runat="server" Font-Bold="True" Font-Size="X-Large" Text="Welcome"></asp:Label>
+        <asp:Label ID="LabelLoginWelcome" runat="server" Font-Bold="True" Font-Size="X-Large" Text="Buy your grass(matta) here"></asp:Label>
         <br />
         <br />
         <table class="auto-style1">
@@ -22,7 +22,8 @@
         <asp:Label ID="LabelLoginUsername" runat="server" Text="Username: " Font-Size="Medium"></asp:Label>
                 </td>
                 <td>
-        <asp:TextBox ID="TextBoxLoginUsername" runat="server" TabIndex="1"></asp:TextBox>
+        <asp:TextBox ID="TextBoxLoginUsername" runat="server" TabIndex="1" Height="30px" Width="150px"></asp:TextBox>
+                    <br />
                 </td>
                 <td class="auto-style2">
         <asp:RequiredFieldValidator ID="RequiredFieldValidatorUsername" runat="server" ControlToValidate="TextBoxLoginUsername" ErrorMessage="* Username is required" ForeColor="Red"></asp:RequiredFieldValidator>
@@ -33,7 +34,7 @@
         <asp:Label ID="LabelLoginPassword" runat="server" Text="Password: " Font-Size="Medium"></asp:Label>
                 </td>
                 <td>
-        <asp:TextBox ID="TextBoxLoginPassword" runat="server" TabIndex="2" TextMode="Password"></asp:TextBox>
+        <asp:TextBox ID="TextBoxLoginPassword" runat="server" TabIndex="2" TextMode="Password" Height="30px" Width="150px"></asp:TextBox>
                 </td>
                 <td class="auto-style2">
         <asp:RequiredFieldValidator ID="RequiredFieldValidatorPassword" runat="server" ControlToValidate="TextBoxLoginPassword" ErrorMessage="* Password is required" ForeColor="Red"></asp:RequiredFieldValidator>
@@ -42,6 +43,9 @@
             <tr>
                 <td></td>
                 <td colspan="2">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Button ID="ButtonLogin" runat="server" OnClick="ButtonLogin_Click" Text="Login" TabIndex="3" Width="62px" />
     
                 </td>
