@@ -67,7 +67,7 @@ namespace Project2MySite
 
                 foreach (var item in order.OrderRows)
                 {
-                    orderRow.Insert(orders.GetDataBy(order.UserId).Last().OrderID, item.Quantity, item.ArticleId);
+                    //orderRow.Insert(orders.GetDataBy(order.UserId).Last().OrderID, item.Quantity, item.ArticleId);
                 }
 
                 Session["order"] = new Order(order.UserId);
